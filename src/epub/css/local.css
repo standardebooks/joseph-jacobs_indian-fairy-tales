@@ -6,6 +6,10 @@ footer{
 	text-align: right;
 }
 
+abbr.era{
+	font-variant: all-small-caps;
+}
+
 /* Dedication */
 section[epub|type~="dedication"]{
 	text-align: center;
@@ -56,7 +60,6 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
@@ -71,3 +74,21 @@ p span.i2{
 	text-indent: -1em;
 }
 /* End song, verse */
+
+/* Table */
+#notes-and-references table{
+	margin: auto;
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+}
+
+#notes-and-references table td{
+	display: table-cell;
+	vertical-align: top;
+}
+
+#notes-and-references table header{
+	font-variant: small-caps;
+}
+/* End table */
