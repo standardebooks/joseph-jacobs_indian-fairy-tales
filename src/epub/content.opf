@@ -90,14 +90,82 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-lac-of-rupees-for-a-bit-of-advice.xhtml" id="a-lac-of-rupees-for-a-bit-of-advice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-lesson-for-kings.xhtml" id="a-lesson-for-kings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/harisarman.xhtml" id="harisarman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-sun-moon-and-wind-went-out-to-dinner.xhtml" id="how-sun-moon-and-wind-went-out-to-dinner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-rajas-son-won-the-princess-labam.xhtml" id="how-the-rajas-son-won-the-princess-labam.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-wicked-sons-were-duped.xhtml" id="how-the-wicked-sons-were-duped.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/loving-laili.xhtml" id="loving-laili.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/notes-and-references.xhtml" id="notes-and-references.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pride-goeth-before-a-fall.xhtml" id="pride-goeth-before-a-fall.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/punchkin.xhtml" id="punchkin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/raja-rasalu.xhtml" id="raja-rasalu.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ass-in-the-lions-skin.xhtml" id="the-ass-in-the-lions-skin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-boy-who-had-a-moon-on-his-forehead-and-a-star-on-his-chin.xhtml" id="the-boy-who-had-a-moon-on-his-forehead-and-a-star-on-his-chin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-broken-pot.xhtml" id="the-broken-pot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-charmed-ring.xhtml" id="the-charmed-ring.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cruel-crane-outwitted.xhtml" id="the-cruel-crane-outwitted.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-demon-with-the-matted-hair.xhtml" id="the-demon-with-the-matted-hair.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-farmer-and-the-moneylender.xhtml" id="the-farmer-and-the-moneylender.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-goldgiving-serpent.xhtml" id="the-goldgiving-serpent.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ivory-city-and-its-fairy-princess.xhtml" id="the-ivory-city-and-its-fairy-princess.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lambikin.xhtml" id="the-lambikin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lion-and-the-crane.xhtml" id="the-lion-and-the-crane.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-magic-fiddle.xhtml" id="the-magic-fiddle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-pigeon-and-the-crow.xhtml" id="the-pigeon-and-the-crow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prince-and-the-fakir.xhtml" id="the-prince-and-the-fakir.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-son-of-seven-queens.xhtml" id="the-son-of-seven-queens.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-soothsayers-son.xhtml" id="the-soothsayers-son.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-talkative-tortoise.xhtml" id="the-talkative-tortoise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tiger-the-brahman-and-the-jackal.xhtml" id="the-tiger-the-brahman-and-the-jackal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/why-the-fish-laughed.xhtml" id="why-the-fish-laughed.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-lion-and-the-crane.xhtml"/>
+		<itemref idref="how-the-rajas-son-won-the-princess-labam.xhtml"/>
+		<itemref idref="the-lambikin.xhtml"/>
+		<itemref idref="punchkin.xhtml"/>
+		<itemref idref="the-broken-pot.xhtml"/>
+		<itemref idref="the-magic-fiddle.xhtml"/>
+		<itemref idref="the-cruel-crane-outwitted.xhtml"/>
+		<itemref idref="loving-laili.xhtml"/>
+		<itemref idref="the-tiger-the-brahman-and-the-jackal.xhtml"/>
+		<itemref idref="the-soothsayers-son.xhtml"/>
+		<itemref idref="harisarman.xhtml"/>
+		<itemref idref="the-charmed-ring.xhtml"/>
+		<itemref idref="the-talkative-tortoise.xhtml"/>
+		<itemref idref="a-lac-of-rupees-for-a-bit-of-advice.xhtml"/>
+		<itemref idref="the-goldgiving-serpent.xhtml"/>
+		<itemref idref="the-son-of-seven-queens.xhtml"/>
+		<itemref idref="a-lesson-for-kings.xhtml"/>
+		<itemref idref="pride-goeth-before-a-fall.xhtml"/>
+		<itemref idref="raja-rasalu.xhtml"/>
+		<itemref idref="the-ass-in-the-lions-skin.xhtml"/>
+		<itemref idref="the-farmer-and-the-moneylender.xhtml"/>
+		<itemref idref="the-boy-who-had-a-moon-on-his-forehead-and-a-star-on-his-chin.xhtml"/>
+		<itemref idref="the-prince-and-the-fakir.xhtml"/>
+		<itemref idref="why-the-fish-laughed.xhtml"/>
+		<itemref idref="the-demon-with-the-matted-hair.xhtml"/>
+		<itemref idref="the-ivory-city-and-its-fairy-princess.xhtml"/>
+		<itemref idref="how-sun-moon-and-wind-went-out-to-dinner.xhtml"/>
+		<itemref idref="how-the-wicked-sons-were-duped.xhtml"/>
+		<itemref idref="the-pigeon-and-the-crow.xhtml"/>
+		<itemref idref="notes-and-references.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
