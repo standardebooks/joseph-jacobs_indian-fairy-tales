@@ -79,6 +79,12 @@ p span.i2{
 }
 /* End song, verse */
 
+/* “The Lambikin” */
+#the-lambikin b{
+	font-size: smaller;
+}
+/* End “The Lambikin” */
+
 /* Table */
 #notes-and-references table{
 	margin: auto;
