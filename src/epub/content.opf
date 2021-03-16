@@ -40,9 +40,9 @@
 		<meta property="term" refines="#subject-3">sh85050122</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of fairy tales that exhibits India’s rich folk tale tradition.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Although most readers correlate the term “fairy tales” with the Germanic or Celtic folk tale tradition, evidenced in the works collected by the Brothers Grimm, Eastern countries like India have their own body of fairy tales. Although infused with local flavor, many of these tales bear a striking structural and thematic similarity to those with which Western readers are accustomed. Joseph Jacobs carefully selected 29 fairy tales from the Jatakas, the Fables of Bidpai, the Tales of the Sun, the Baluchi Folktales, the Folktales of Kashmir, and from other Sanskrit sources. These stories are humorous and imaginative while preserving India's rich folk tale tradition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7128</dc:source>
