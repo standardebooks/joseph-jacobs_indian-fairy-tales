@@ -85,6 +85,13 @@ p span.i2{
 }
 /* End “The Lambikin” */
 
+/* “The Soothsayer’s Son” */
+#the-soothsayers-son b{
+	font-variant: normal;
+	font-weight: bold;
+}
+/* End “The Soothsayer’s Son” */
+
 /* Table */
 #notes-and-references table{
 	margin: auto;
