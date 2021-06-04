@@ -51,7 +51,6 @@
 		<dc:source>https://archive.org/details/indiantales00jacorich</dc:source>
 		<meta property="se:word-count">71468</meta>
 		<meta property="se:reading-ease.flesch">77.67</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Indian_fairy_tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-jacobs_indian-fairy-tales</meta>
 		<dc:creator id="author">Joseph Jacobs</dc:creator>
 		<meta property="file-as" refines="#author">Jacobs, Joseph</meta>
