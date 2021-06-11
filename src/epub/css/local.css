@@ -10,7 +10,7 @@ footer{
 	font-variant: small-caps;
 }
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
