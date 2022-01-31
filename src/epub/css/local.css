@@ -16,9 +16,9 @@ footer{
 
 /* Dedication */
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-style: italic;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
@@ -94,10 +94,10 @@ p span.i2{
 
 /* Table */
 #notes-and-references table{
-	margin: auto;
 	display: table;
-	width: 100%;
+	margin: auto;
 	table-layout: fixed;
+	width: 100%;
 }
 
 #notes-and-references table td{
