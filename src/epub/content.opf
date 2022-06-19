@@ -37,7 +37,7 @@
 		<meta property="term" refines="#subject-2">sh2008120159</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85050122</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of fairy tales that exhibits India’s rich folk tale tradition.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
