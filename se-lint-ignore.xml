@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="the-broken-pot.xhtml">
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
