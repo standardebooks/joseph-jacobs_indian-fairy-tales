@@ -94,15 +94,12 @@ p span.i2{
 
 /* Table */
 #notes-and-references table{
-	display: table;
 	margin: auto;
-	table-layout: fixed;
-	width: 100%;
 }
 
 #notes-and-references table td{
-	display: table-cell;
 	vertical-align: top;
+	width: 50%;
 }
 
 #notes-and-references table header{
